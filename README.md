@@ -55,12 +55,6 @@
 
 ---
 
-### Pinned Projects & Academic Work
-
-> Check out my repositories below! Each repository includes a detailed README explaining the context, architecture, and technology stack used.
-
----
-
 ### GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEIN_GITHUB_USERNAME&show_icons=true&theme=radial)
