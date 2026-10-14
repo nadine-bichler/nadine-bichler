@@ -15,7 +15,7 @@
 
 **Frameworks & Web:** React, Node.js
 
-**Testing & Automation:** PyTest, Playwright
+**Testing & Automation:** JTests, PyTest, Playwright
 
 **Networking, Protocols & APIs:** REST, gRPC, WebSockets, MQTT, Wireshark
 
