@@ -17,6 +17,7 @@ Passionate about building clean, efficient, and well-tested software. With a str
 **Networking, Protocols & APIs:** REST, gRPC, WebSockets, MQTT
 
 **Build Systems & Tools:** Maven, Gradle, CMake, Docker, Git, Linux, Postman
+
 **IDEs & Environment:** VS Code, IntelliJ
 
 ---
