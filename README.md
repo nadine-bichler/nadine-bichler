@@ -25,4 +25,6 @@ Passionate about building clean, efficient, and well-tested software. With a str
 
 Check out my repositories below to see my academic and practical work, including detailed documentation on architecture and tech stacks.
 
----
+--- 
+
+* **Email:** nadinebichler@proton.me
