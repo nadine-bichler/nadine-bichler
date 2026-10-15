@@ -2,24 +2,22 @@
 
 **Computer Science Graduate** 
 
-- Recently completed my B.Sc. in Computer Science
-- Tech Stack range: everything i learned in school
-- Focus: finding a job
-- How to reach me: nadinebichler@gmail.com
+Passionate about building clean, efficient, and well-tested software. With a strong foundation in computer science fundamentals—ranging from low-level systems to modern web technologies—I'm currently looking for an entry-level position as a Software Engineer / Developer.
 
 ---
 
 ### Tech Stack & Skills
 
-**Languages:** Python, C, C++, C#, Java, TypeScript, JavaScript, Haskell, Assembly, HTML, CSS, etc.
+**Languages:** Python, C/C++, C#, Java, TypeScript, JavaScript, Haskell, Assembly, SQL
 
-**Frameworks & Web:** React, Node.js
+**Frameworks & Web:** React, Node.js, HTML5, CSS3
 
-**Testing & Automation:** JTests, PyTest, Playwright
+**Testing & Automation:** JUnit, PyTest, Playwright
 
-**Networking, Protocols & APIs:** REST, gRPC, WebSockets, MQTT, Wireshark
+**Networking, Protocols & APIs:** REST, gRPC, WebSockets, MQTT
 
-**Build Systems & Tools:** Maven, Gradle, CMake, Docker, Git, Linux, SQL, Postman, VS Code, IntelliJ
+**Build Systems & Tools:** Maven, Gradle, CMake, Docker, Git, Linux, Postman
+**IDEs & Environment:** VS Code, IntelliJ
 
 ---
 
