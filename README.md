@@ -1,6 +1,6 @@
 # Hi there, I'm Nadine Bichler
 
-**Computer Science Graduate** 
+**Computer Science Student | Upcoming Graduate** 
 
 Passionate about building clean, efficient, and well-tested software. With a strong foundation in computer science fundamentals—ranging from low-level systems to modern web technologies—I'm currently looking for an entry-level position as a Software Engineer / Developer.
 
